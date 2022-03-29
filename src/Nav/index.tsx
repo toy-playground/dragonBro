@@ -9,9 +9,9 @@ const NavBar = () => {
         <a className={navbarItem} href="#portfolio">
           Portfolio
         </a>
-        <a className={navbarItem} href="#contact">
+        {/* <a className={navbarItem} href="#contact">
           Contact
-        </a>
+        </a> */}
       </div>
     </nav>
   );
