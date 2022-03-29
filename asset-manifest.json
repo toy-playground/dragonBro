@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/dragonBro/static/css/main.1be7b5c0.css",
-    "main.js": "/dragonBro/static/js/main.6454a6eb.js",
+    "main.js": "/dragonBro/static/js/main.73179c7b.js",
     "static/js/27.111a8d9a.chunk.js": "/dragonBro/static/js/27.111a8d9a.chunk.js",
     "static/media/stepn.png": "/dragonBro/static/media/stepn.656e2cb3f8d9383a9f78.png",
     "index.html": "/dragonBro/index.html"
   },
   "entrypoints": [
     "static/css/main.1be7b5c0.css",
-    "static/js/main.6454a6eb.js"
+    "static/js/main.73179c7b.js"
   ]
 }
